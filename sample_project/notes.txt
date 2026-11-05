@@ -1,0 +1,4 @@
+This is a disposable training fixture for Lesson 10.
+The inspection task should find two Python modules and two TODO comments.
+The agent should explain the code without modifying it.
+No credentials or personal files belong in this fixture.
